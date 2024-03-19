@@ -1,0 +1,7 @@
+{
+  "name": "tarea1marcelo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
